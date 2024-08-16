@@ -8,6 +8,6 @@ Free Premium Event is Started!
 Join my discord server for more!
 https://discord.com/invite/3BHekVBQUe
 
-Level: 1
 Target: 100
-Current: 10
+Current: 13
+Event Level: 1
