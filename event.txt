@@ -1,4 +1,4 @@
 Free Premium event is started!
 Target: 100
-Current: 15
+Current: 16
 Event Level: 1
