@@ -1,3 +1,4 @@
+-- Join my discord for support me! https://discord.com/invite/3BHekVBQUe
 function sc(SC)
 return string.char(table.unpack(SC))
 end
